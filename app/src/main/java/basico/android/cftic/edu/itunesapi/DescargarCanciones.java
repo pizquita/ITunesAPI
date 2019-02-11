@@ -12,6 +12,8 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+import basico.android.cftic.edu.itunesapi.dto.ResultadoCanciones;
+
 
 /**
  * Esta clase debe heredar de AyncTask porque se ejecutar&aacute; de forma paralela

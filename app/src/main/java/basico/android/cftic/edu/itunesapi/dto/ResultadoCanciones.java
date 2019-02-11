@@ -1,7 +1,9 @@
-package basico.android.cftic.edu.itunesapi;
+package basico.android.cftic.edu.itunesapi.dto;
 
 
 import java.util.List;
+
+import basico.android.cftic.edu.itunesapi.dto.Cancion;
 
 /**
  * Clase tipo BIN de JAVA solo tiene contructor y Getter an d Setter de sus atributos

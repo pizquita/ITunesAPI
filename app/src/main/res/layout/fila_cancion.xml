@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/txv_cancion"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="60"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:gravity="center_vertical"
+        android:text="Canción"/>
+    <TextView
+        android:id="@+id/txv_artista"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="20"
+        android:textStyle="normal"
+        android:textSize="10sp"
+        android:gravity="center_vertical"
+        android:text="Artista"/>
+    <TextView
+        android:id="@+id/txv_album"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="20"
+        android:textStyle="normal"
+        android:textSize="10sp"
+        android:gravity="center_vertical"
+        android:text="Album"/>
+</LinearLayout>

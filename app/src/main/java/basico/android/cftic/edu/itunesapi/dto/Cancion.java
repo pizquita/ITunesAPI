@@ -1,4 +1,4 @@
-package basico.android.cftic.edu.itunesapi;
+package basico.android.cftic.edu.itunesapi.dto;
 
 public class Cancion {
 
